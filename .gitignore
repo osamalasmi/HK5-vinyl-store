@@ -1,0 +1,19 @@
+# Geheimen
+.env
+
+# WordPress-bestanden die niet van mij zijn
+wp-content/plugins/
+wp-content/themes/*
+!wp-content/themes/vinyl-child/
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/updraft/
+wp-content/cache/
+
+# Systeem
+.DS_Store
+Thumbs.db
+
+# Claude Code
+CLAUDE.md
+.claude/
